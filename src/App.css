@@ -84,7 +84,6 @@ input:focus {
 
 .completetodo{
   text-decoration: line-through;
-  color: red;
-  background-color: rgb(243, 243, 120) !important;
+  background-color: rgb(247, 51, 7) !important;
 
 }
